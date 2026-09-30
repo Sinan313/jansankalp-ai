@@ -1,0 +1,74 @@
+[
+  {
+    "project_id": "PROJ-001",
+    "state": "Kerala",
+    "district": "Thrissur",
+    "category": "Water",
+    "project_name": "Regional Drinking Water Improvement",
+    "investment_crore": 25,
+    "status": "Planned"
+  },
+  {
+    "project_id": "PROJ-002",
+    "state": "Bihar",
+    "district": "Gaya",
+    "category": "Healthcare",
+    "project_name": "Rural Primary Healthcare Upgrade",
+    "investment_crore": 18,
+    "status": "Planned"
+  },
+  {
+    "project_id": "PROJ-003",
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "category": "Water",
+    "project_name": "Community Water Infrastructure",
+    "investment_crore": 12,
+    "status": "Ongoing"
+  },
+  {
+    "project_id": "PROJ-004",
+    "state": "Jharkhand",
+    "district": "Simdega",
+    "category": "Roads",
+    "project_name": "Rural Road Connectivity Project",
+    "investment_crore": 20,
+    "status": "Planned"
+  },
+  {
+    "project_id": "PROJ-005",
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "category": "Education",
+    "project_name": "School Infrastructure Improvement",
+    "investment_crore": 15,
+    "status": "Planned"
+  },
+  {
+    "project_id": "PROJ-006",
+    "state": "Maharashtra",
+    "district": "Nandurbar",
+    "category": "Healthcare",
+    "project_name": "Rural Health Facility Upgrade",
+    "investment_crore": 22,
+    "status": "Ongoing"
+  },
+  {
+    "project_id": "PROJ-007",
+    "state": "Assam",
+    "district": "Dhubri",
+    "category": "Sanitation",
+    "project_name": "Rural Sanitation Improvement",
+    "investment_crore": 10,
+    "status": "Planned"
+  },
+  {
+    "project_id": "PROJ-008",
+    "state": "Gujarat",
+    "district": "Dahod",
+    "category": "Digital Connectivity",
+    "project_name": "Rural Digital Connectivity Expansion",
+    "investment_crore": 14,
+    "status": "Planned"
+  }
+]
